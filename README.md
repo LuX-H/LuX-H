@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lux
+# LuX ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LuX-H.LuX-H)
 
 ### Dream of becoming a visual algorithm engineer
 
