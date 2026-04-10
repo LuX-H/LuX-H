@@ -1,6 +1,6 @@
-# Hi 👋, I'm lux
+# Hi 👋, I'm Lux
 
-### A budding Python developer
+### Dream of becoming a visual algorithm engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuX-H&label=Profile views&color=0e75b6&style=flat" alt="LuX-H" /> </p>
 
