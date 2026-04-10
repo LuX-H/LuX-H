@@ -28,9 +28,3 @@
 - 来自广东揭阳
 - 广州大学25级 软件工程
 - 喜欢学一些有趣的技术
-
-## Connect With Me
-<p align="left">
-<a href="https://github.com/LuX-H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LuX-H" height="30" width="40" /></a>
-</p>
-
