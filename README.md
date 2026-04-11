@@ -23,7 +23,3 @@
     <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
   </a>
 </p>
-
-## About Me
-- 来自广东揭阳
-- 广州大学25级 软件工程
