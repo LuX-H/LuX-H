@@ -22,9 +22,3 @@
     <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/>
   </a>
 </p>
-
-<style>
-  .img:{
-    display:flex;
-  }
-</style>
