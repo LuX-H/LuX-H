@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=38&duration=3006&pause=200&width=435&lines=Hello~+I%E2%80%99m+LuX;A+visual+algorithm+learner" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=500&size=34&duration=3006&pause=200&width=435&lines=Hello~I%E2%80%99m+Lux;%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99" alt="Typing SVG" /></a>
 </div>
 
 ## Using
